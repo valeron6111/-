@@ -1,0 +1,11 @@
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\bin\Debug\Бот по каталогу.exe.config
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\bin\Debug\Бот по каталогу.exe
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\bin\Debug\Бот по каталогу.pdb
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\obj\Debug\Бот по каталогу.csprojResolveAssemblyReference.cache
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\obj\Debug\Бот_по_каталогу.Form1.resources
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\obj\Debug\Бот_по_каталогу.Properties.Resources.resources
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\obj\Debug\Бот по каталогу.csproj.GenerateResource.Cache
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\obj\Debug\Бот по каталогу.exe
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\obj\Debug\Бот по каталогу.pdb
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\bin\Debug\WebDriver.dll
+c:\users\homepc\documents\visual studio 2012\Projects\Бот по каталогу\Бот по каталогу\bin\Debug\WebDriver.Support.dll
